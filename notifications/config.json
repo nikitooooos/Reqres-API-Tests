@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project": "API-Tests",
+    "environment": "STAGE",
+    "comment": "",
+    "reportLink": "",
+    "language": "ru",
+    "allureFolder": "allure-report",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "6559165821:AAGE8zRbr0bM9xWznHSuXPBlE8s3O7uMAcM",
+    "chat": "-1002028732405",
+    "replyTo": ""
+  }
+}
