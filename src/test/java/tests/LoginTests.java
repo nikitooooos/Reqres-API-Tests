@@ -1,6 +1,5 @@
 package tests;
 
-import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
 import io.qameta.allure.Owner;
 import models.login.LoginBodyModel;
@@ -15,8 +14,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static specs.Specs.*;
 
 @Owner("Nikita Postnikov")
-@Epic("API Reqres")
-@Feature("User authorization")
+@Feature("Авторизация пользователя")
 public class LoginTests extends TestBase {
 
     @Test
