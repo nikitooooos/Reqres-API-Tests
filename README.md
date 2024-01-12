@@ -47,9 +47,6 @@
 -  Создание нового пользователя
 -  Изменение данных пользователя
 
-<a id="console"></a>
-##  Запуск тестов из терминала
-
 <a id="jenkins"></a>
 ## <img src="media/logo/Jenkins.svg" width="25" height="25"/></a> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/C22-angel_sapphire-Reqres-API-Tests/)
 
