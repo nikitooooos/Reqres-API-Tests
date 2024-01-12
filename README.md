@@ -1,4 +1,4 @@
-<h1 >Демопроект автоматизации тестирования API на <a href="https://reqres.in/">reqres.in</a></h1>
+<h1 >Демо-проект автоматизации тестирования API на <a href="https://reqres.in/">reqres.in</a></h1>
 
 ![WB_logo.jpg](media/logo/reqres_logo.png)
 
